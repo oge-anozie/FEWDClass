@@ -1,2 +1,2 @@
 # FEWDClass
-Web development class.
+Front-End Web Development class.
